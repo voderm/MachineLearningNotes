@@ -1,2 +1,2 @@
 # MachineLearningNotes
-These are my notes about machine learning from Andrew Ng.
+These are my notes about machine learning from Andrew Ng's courses.
